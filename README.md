@@ -52,12 +52,4 @@ and identifies which channel performs best.
 * Organic Search had strong conversion
 * Funnel conversion from Visitors to Customers visible clearly
 
----
 
-## 👨‍💻 Author
-
-Your Name
-
----
-
-## ⭐ If you like this project, give it a star!
